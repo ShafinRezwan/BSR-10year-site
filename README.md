@@ -5,8 +5,9 @@ An interactive 3D web experience celebrating 10 years of Better Sounds Recording
 Built using Three.js and custom 3D assets, this project combines immersive visuals, animation, and modern web technologies to create a unique digital anniversary experience for the Los Angeles-based record label. With a tight timeline of 24 hours, I had to be creative in how I utilized my time in bringing this idea to life, hence the simple tech stack!
 
 ## Preview
-
-![Better Sounds Recordings](./BSR%20Logo.png)
+<p align="center">
+  <img src="./images/screenrecording/bsr.gif" alt="Description of image">
+</p>
 
 ## Features
 
