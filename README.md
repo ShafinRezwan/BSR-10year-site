@@ -42,7 +42,7 @@ Built using Three.js and custom 3D assets, this project combines immersive visua
 
 ## Inspiration
 
-This project was created to commemorate the 10-year journey of Better Sounds Recordings and showcase the label's identity through an engaging interactive web experience. :contentReference[oaicite:2]{index=2}
+This project was created to commemorate the 10-year journey of Better Sounds Recordings and showcase the label's identity and history through an engaging interactive web experience.
 
 ## Live Site
 
