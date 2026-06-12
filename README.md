@@ -40,14 +40,6 @@ Built using Three.js and custom 3D assets, this project combines immersive visua
 └── README.md
 ```
 
-## Screenshots
-
-Add screenshots or GIFs here to showcase the 3D experience.
-
-```markdown
-![Homepage](./images/screenshot-1.png)
-```
-
 ## Inspiration
 
 This project was created to commemorate the 10-year journey of Better Sounds Recordings and showcase the label's identity through an engaging interactive web experience. :contentReference[oaicite:2]{index=2}
