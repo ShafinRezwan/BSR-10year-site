@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/favicon_io/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="/favicon_io/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="/favicon_io/favicon-16x16.png"
+    />
+    <link rel="manifest" href="/favicon_io/site.webmanifest" />
+
+    <title>Better Sounds</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="ui">
+      <div id="ui-left">BETTER SOUNDS</div>
+      <div id="ui-bottom">BETTER EVERYTHING</div>
+      <div id="ui-right">
+        <button onclick="resetCamera()">Reset</button>
+        <button onclick="scatter()">Scatter</button>
+        <button onclick="gather()">Gather</button>
+      </div>
+    </div>
+
+    <div id="hint">
+      drag to rotate &nbsp;·&nbsp; scroll to zoom &nbsp;·&nbsp; right-drag to
+      pan
+      <div class="ccg">Site Developed by Creative Control Group</div>
+    </div>
+    <!--<div id="tooltip"></div>*/ -->
+
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://cdn.jsdelivr.net/npm/three@0.163.0/build/three.module.js",
+          "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.163.0/examples/jsm/"
+        }
+      }
+    </script>
+    <script type="module" src="main.js"></script>
+  </body>
+</html>
